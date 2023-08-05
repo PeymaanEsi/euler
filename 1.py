@@ -1,6 +1,6 @@
 # PeymaanEsi
 
-#Get Sum Of Multiplies Of 3 Or 5 Under 1000.
+# Get Sum Of Multiplies Of 3 Or 5 Under 1000.
 
 sum = 0
 
